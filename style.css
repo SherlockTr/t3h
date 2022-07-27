@@ -1,0 +1,16 @@
+.icon-bar {
+    font-size: 28px;
+    display: block;
+    padding: 14px 51px;
+}
+.icon-bar a:hover {
+    background-color: #ddd;
+    border-radius: 1rem;
+    color: black;
+    padding: 14px 51px;
+}
+
+.menu {
+    font-size: 28px;
+    display: block;
+}
